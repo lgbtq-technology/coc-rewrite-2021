@@ -11,12 +11,3 @@ Hello! We are using this 'README' document to keep track of some general notes, 
   * Git; https://github.com/lgbtq-technology/lgbtq-technology.github.io/blob/master/culture.md
 * Google Doc with comments; https://docs.google.com/document/d/1s0B8R-b6gg6JjGhaQWXcP4AblFEH2RImWu8ctx-qD3o/edit#heading=h.k2nujdb57tdr
 * PoC Compensation worksheet; https://bit.ly/30xJtdN
-
-#### People Involved
-
-Listed by their Slack names, please update if these change;
-
-* Saiel
-* autumn
-* el
-* kalessin
