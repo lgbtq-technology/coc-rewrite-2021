@@ -33,7 +33,8 @@ Some LGBTQ in Tech spaces may have additional rules in place, which will be made
 * No unwelcome comments regarding a person’s lifestyle choices and practices, including those related to food, health, parenting, relationships, drugs, and employment.
 * No gratuitous or off-topic sexual images or behaviour in spaces where they’re not appropriate
 * No offensive comments related to gender, gender identity and expression, sexual orientation, disability, mental illness, neuro(a)typicality, physical appearance, body size, age, race, national origin, ethnic origin, nationality, immigration status, language, religion or lack thereof, or other identity marker.
-* No “Reverse”-isms, including “reverse racism,” “reverse sexism,” and “cisphobia” or debating the rights and lived experiences of marginalized people in the community.
+* No use or abuse of "Reverse"-isms, including "reverse racism," "reverse sexism," and "cisphobia" against marginalized members. "Reverse"-isms and any concept that uphold and bulwhark white and privileged supremacies out of the context of challenging it will be shut down.
+* No debating the rights and lived experiences of marginalized people in the community. 
 * **No racist, sexist, cissexist, ableist or otherwise oppressive behavior is allowed, casual or explicit. This includes any harmful language, behavior, or action toward people of color, trans folks, disabled and other marginalized identities in our community. These are violations of the Code of Conduct.**
 
 **Harassment includes:**
