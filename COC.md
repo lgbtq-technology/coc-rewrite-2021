@@ -6,7 +6,7 @@
 
 * Let the person know that what they did is not appropriate and ask them to stop and/or edit their message(s).
 * That person should immediately stop the behavior and correct the issue.
-* If they don’t stop their behavior, or if you’re uncomfortable speaking up, contact admins by using the /admin command. 
+* If they don’t stop their behavior, or if you’re uncomfortable speaking up, contact admins by using the `/admin` command. 
 * As soon as available, the Admin team will engage, identify themselves, and take further action (see below), starting with a warning, then temporary deactivation, then long-term deactivation.
 * When reporting, please include any relevant details, links, screenshots, context, or other information that may be used to better understand and resolve the situation.
 
@@ -72,7 +72,7 @@ LGBTQ in Tech fosters a culture of community accountability and growth. As such:
 
 * Discussions challenging privilege are encouraged in any channel. Redirecting touchy or difficult subjects to threads or other channels do not apply in these situations.
 * Community members are expected to join and participate in #unlearn channels to unpack harmful biases.
-* Linking news sources that have proven to be problematic is highly discouraged. (One example of this is The Guardian UK which is a publication that supports and promotes transphobic content.) Instead find alternative news sources or individual voices on social media to share. If you cannot find an alternate news source, use a link anonymizer (e.g. [donotlink](https://donotlink.it) or [DumpTheGuardian](https://theguardian.fivefilters.org/how-to-share/)); add a content warning noting the media source and link in a thread; or copy/paste a pull quote without the preview.
+* Linking news sources that have proven to be problematic is highly discouraged. (One example of this is _The Guardian_ UK, which is a publication that repeatedly supports and promotes transphobic content.) Instead find alternative news sources or individual voices on social media to share. If you cannot find an alternate news source, use a link anonymizer (e.g. [donotlink](https://donotlink.it) or [DumpTheGuardian](https://theguardian.fivefilters.org/how-to-share/)); add a content warning noting the media source and link in a thread; or copy/paste a pull quote without the preview.
 * Doubling down, tripling down, and any deeply committed privilege-enforcing argument and discussion tactics is not condoned as they are counter to community culture. If you repeatedly and disrespectfully push back in discussions involving valid and reasonable dissent by members of the community, you may be asked to change your behavior and limit your engagement. Discussion tactics like tone policing, civility policing and other privilege-protecting rhetoric made outside of good faith are simply not welcome here. See Conduct section of the COC.
 * For less policy-related culture information, see our dedicated [Culture document](https://lgbtq.technology/culture.html)
 * LGBTQ in Tech will always honor the emotional labor of members who are marginalized. As such, we respect the time and energy they may, at their discretion, provide to help us better understand their experiences and educate us about our privileges. It is explicitly allowed for marginalized members to advertise payment and tip links on explicitly educational channels and in related instances where their labor is expended. Reparations of any kind, monetary, skill, resource, time-based or otherwise are highly welcomed and supported by the community.
